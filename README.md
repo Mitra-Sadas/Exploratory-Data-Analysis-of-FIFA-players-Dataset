@@ -13,14 +13,15 @@ fifa.csv – data file.
 fifa_ variable_information.csv - information on individual variables.
 
 In this Notebook, 
-1.	i have Plotted the distribution of Overall rating for all players. 
+
+1.	I have Plotted the distribution of Overall rating for all players. 
 2.	Generated pair plots for the following variables:
     Overall, Value, Wage, International Reputation, Height, Weight, Release Clause
 3.	Generated a table containing the top 20 players ranked by Overall score and whose contract expires in 2020.
-a)	the average wage for this set of players.
-b)	What is the average age
-c)	Checked if there is a correlation between the Overall rating and Value for these players
+    a)	the average wage for this set of players.
+    b)	What is the average age
+    c)	Checked if there is a correlation between the Overall rating and Value for these players
 
 4.	Generated tables containing the top 5 players by Overall rating for each unique position.
-a)	checked if there are any players appearing in more than one Table
-b)	the average wage one can expect to pay for the top 5 in every position.
+    a)	checked if there are any players appearing in more than one Table
+    b)	the average wage one can expect to pay for the top 5 in every position.
